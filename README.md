@@ -30,9 +30,9 @@
 
   
   </br>
-  <img alt="Stats" align="center" height="192px" src="https://github-readme-stats.vercel.app/api?username=HellxBlazer&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img alt="Most Written in" align="center" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellxBlazer&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img alt="Stats" align="center" height="192px" src="https://github-readme-stats.vercel.app/api?username=fahadhasanNPC&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img alt="Most Written in" align="center" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhasanNPC&layout=compact&theme=tokyonight&hide_border=true"/>
   </br></br>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HellxBlazer&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FF0FF8&ring=EB0087&fire=EB0000" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fahadhasanNPC&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FF0FF8&ring=EB0087&fire=EB0000" alt="GitHub Streak" /></a>
 </h5>
 </div>

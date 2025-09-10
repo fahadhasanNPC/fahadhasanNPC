@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning & NLP**
 
-- 👯 I’m looking to collaborate on **Problem Solving**
+- 👯 I’m looking to collaborate on **Real World Projects**
 
 - 💬 Ask me about **C++,Java,Database(Oracle),ML & NLP**
 
